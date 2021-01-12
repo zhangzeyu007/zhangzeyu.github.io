@@ -2523,12 +2523,6 @@ main >.inner {
 .social .item.music i {
   color: #e60026;
 }
-.social .item.weibo::before {
-  background-color: #ea716e;
-}
-.social .item.weibo i {
-  color: #ea716e;
-}
 .social .item.about::before {
   background-color: #3b5998;
 }
